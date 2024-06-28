@@ -2,6 +2,13 @@
 
 Super Anki is a Raycast extension designed to seamlessly connect users, especially students, to their self-hosted Anki server. With Super Anki, users can easily create and manage your Anki decks and notes directly from Raycast.
 
+## Screenshots
+
+<img src="metadata/super-anki-1.png" alt="Super-anki raycast extension with anki-connect" width="700">
+<img src="metadata/super-anki-2.png" alt="Super-anki raycast extension with anki-connect" width="700">
+<img src="metadata/super-anki-3.png" alt="Super-anki raycast extension with anki-connect" width="700">
+<img src="metadata/super-anki-4.png" alt="Super-anki raycast extension with anki-connect" width="700">
+
 ## Features
 
 - **Get Deck Names**: Retrieve the names of all decks in your Anki collection.
@@ -16,7 +23,7 @@ Super Anki is a Raycast extension designed to seamlessly connect users, especial
 
 - Anki application installed on your computer.
 - Anki Connect extension installed in Anki to enable API routing. [Download Anki Connect](https://git.foosoft.net/alex/anki-connect)
-- (Optional) Docker for self-hosting Anki to reacht your anki GUI everywhere in the. [Docker Installation Instructions](https://github.com/mlcivilengineer/anki-desktop-docker)
+- (Optional) Docker for self-hosting Anki to reacht your anki GUI everywhere in the world  [Docker Installation Instructions](https://github.com/mlcivilengineer/anki-desktop-docker)
 
 ## Installation
 
