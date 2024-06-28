@@ -1,0 +1,11 @@
+{
+    "name": "Super-anki Raycast",
+    "description": "Super-anki is a raycast extension for raycast to study with anki locally or remote",
+    "logo": "https://raw.githubusercontent.com/raycast/extensions/289008a47fde23924e0d8ca7a760613eaa4a646d/extensions/super-anki/metadata/super-anki-4.jpeg",
+    "keywords": [
+      "raycast extension",
+      "anki",
+      "anki-connect",
+      "study extension"
+    ]
+  }
